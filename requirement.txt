@@ -1,0 +1,4 @@
+Pandas- For data Handling
+Numpy- For Math
+Matplotib- For Plotting
+Scipy- For Curve fitting
